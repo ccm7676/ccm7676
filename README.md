@@ -3,6 +3,7 @@
 ### How to Contact Me 📱
 |Email| contact@carlmarino.tech | 
 --- | --- 
+|LinkedIn| [Carl Marino](https://www.linkedin.com/in/ccm7676/) |
 |Twitter| [ccm7676](https://twitter.com/ccm7676/) |
 |Website| [carlmarino.tech](https://carlmarino.tech) |
 ### Donate
