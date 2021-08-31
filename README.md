@@ -1,4 +1,4 @@
-<body style="background-color: #ffffff;">
+
 # My name is Carl Marino, Welcome to my Github page!
 
 ### How to Contact Me 📱
@@ -19,4 +19,4 @@
 #### Bitcoin
 <img src="https://github.com/ccm7676/ccm7676/blob/main/btcqr.png?raw=true" width="150">
 
-</body>
+
