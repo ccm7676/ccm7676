@@ -16,7 +16,6 @@
 #### Monero
 <img src="https://github.com/ccm7676/ccm7676/blob/main/moneroqr.png?raw=true" width="150">
 
-#### Bitcoin
 <img src="https://github.com/ccm7676/ccm7676/blob/main/btcqr.png?raw=true" width="150">
 
 
