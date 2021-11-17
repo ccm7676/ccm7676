@@ -13,7 +13,7 @@
 
 ### Donate 💵
 <a href="https://www.buymeacoffee.com/ccm7676"><img src="https://github.com/ccm7676/ccm7676/blob/main/bmc-button.png?raw=true" width="300px"></a>
-#### Monero
+#### Monero     Bitcoin
 <img src="https://github.com/ccm7676/ccm7676/blob/main/moneroqr.png?raw=true" width="150"><img src="https://github.com/ccm7676/ccm7676/blob/main/btcqr.png?raw=true" width="150">
 
 
