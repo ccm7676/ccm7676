@@ -1,6 +1,8 @@
 
 # My name is Carl Marino, Welcome to my Github page!
-
+<video width="300" height="200" autoplay="autoplay">
+  <source src="carlmarino.mp4" type="video/mp4" />
+</video>
 ### How to Contact Me 📱
 |Email| cm@carlmarino.tech | 
 --- | --- 
