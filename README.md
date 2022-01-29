@@ -1,5 +1,5 @@
 
-![test image size]<img src="https://github.com/ccm7676/ccm7676/blob/main/carlmarino.gif?raw=true" width="400" height="790">
+![test image size]<img src="https://github.com/ccm7676/ccm7676/blob/main/carlmarino.gif?raw=true" width="800" >
 
 # My name is Carl Marino, Welcome to my Github page!
 ### How to Contact Me 📱
