@@ -1,4 +1,4 @@
-<img src="https://github.com/ccm7676/ccm7676/blob/main/carlmarino.gif?raw=true" width="11000" >
+<img src="https://github.com/ccm7676/ccm7676/blob/main/gh%20readme%20main.png?raw=true" width="11000" >
 
 # My name is Carl Marino, Welcome to my Github page!
 ### How to Contact Me 📱
